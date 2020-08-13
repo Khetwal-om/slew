@@ -24,7 +24,7 @@ const UserActivity = ({activity_periods}) => {
                         {activity.start_time}
                     </span>       
                      <span className="element-end"> 
-                        {activity.start_time}
+                        {activity.end_time}
                      </span>       
         
                   </div>
