@@ -13,7 +13,6 @@ class App extends Component {
     
         this.state = {
              users:  [],
-             open: false,
              avatar: 0
         }
     
